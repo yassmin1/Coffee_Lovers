@@ -4,7 +4,7 @@ If you love coffee and you are spending a long time looking for the perfect kind
 ![My lovely coffee](https://static7.depositphotos.com/1035121/734/i/450/depositphotos_7343611-stock-photo-i-love-coffee.jpg)
 # The objective:
 - The goal is to determine the overall sentiment of the reviews, whether they are positive, negative, or neutral. 
-- The outcome:
+- The outcome:    
   -understand customers and the perception of products
   -make data-driven decisions based on customer feedback. 
   -identify specific areas for improvement in coffee beans product or services.
