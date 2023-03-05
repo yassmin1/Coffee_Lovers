@@ -15,4 +15,5 @@ If you love coffee and you are spending a long time looking for the perfect kind
 # Result:
 - Compare three coffee bean brands: the first and third brands have more positive reviews than the second brand.
 - ![image](https://user-images.githubusercontent.com/38767315/222940447-b320844e-5a11-4beb-a2d3-ab501548dbcb.png)
-
+- Word Cloud of the three brands:
+- ![image](https://user-images.githubusercontent.com/38767315/222941413-253b9031-9857-4d4f-9ac8-82c3b077e223.png)
